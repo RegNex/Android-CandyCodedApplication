@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +158,19 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="added intent to start new activity">
+      <created>1602369289931</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602369289931</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added intent to start new activity" />
+    <option name="LAST_COMMIT_MESSAGE" value="added intent to start new activity" />
   </component>
   <component name="WindowStateProjectService">
     <state x="496" y="225" key="#Notifications" timestamp="1602368707227">
@@ -166,10 +181,10 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="744" y="456" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1792.1120/1792.0.1050.1680@0.0.1792.1120" timestamp="1602368731152" />
-    <state x="374" y="160" key="CommitChangelistDialog2" timestamp="1602369271082">
+    <state x="374" y="160" key="CommitChangelistDialog2" timestamp="1602369289710">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="374" y="160" key="CommitChangelistDialog2/0.0.1792.1120/1792.0.1050.1680@0.0.1792.1120" timestamp="1602369271082" />
+    <state x="374" y="160" key="CommitChangelistDialog2/0.0.1792.1120/1792.0.1050.1680@0.0.1792.1120" timestamp="1602369289710" />
     <state width="1750" height="318" key="GridCell.Tab.0.bottom" timestamp="1602369271153">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
@@ -186,5 +201,9 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120/1792.0.1050.1680@0.0.1792.1120" timestamp="1602369271152" />
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2" timestamp="1602369306681">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="300" key="Vcs.Push.Dialog.v2/0.0.1792.1120/1792.0.1050.1680@0.0.1792.1120" timestamp="1602369306681" />
   </component>
 </project>
